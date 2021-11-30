@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+My name is Mepuka Kessy and I'm a software engineer based in Seattle.
+
+🔭 I'm currently diving deep into functional programming with the goal of fundamentally improving my approach to software design especially as applied to web development. Lately, I've been exploring the amazing [fp-ts](https://github.com/gcanti/fp-ts) library and ecosystem that brings popular functional progamming patterns and abstractions to TypeScript. I've also started the exciting journey of learning λ Haskell λ.
+
+Recently I've had fun incorporating functional programming techniques into React and other front-end frameworks.
+
+ 
+
 <!--
-**mkessy/mkessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
