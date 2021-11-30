@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello\ 👋
 
 My name is Mepuka Kessy and I'm a software engineer based in Seattle.
 
