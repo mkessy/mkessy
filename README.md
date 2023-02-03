@@ -1,13 +1,6 @@
 ### Hello 👋
 
-My name is Mepuka Kessy and I'm a software engineer based in Seattle.
-
-🔭 I'm currently diving deep into functional programming with the goal of fundamentally improving my approach to software design especially as applied to web development and backend engineering. Lately, I've been exploring the amazing [fp-ts](https://github.com/gcanti/fp-ts) library and ecosystem that brings popular functional progamming patterns and abstractions to TypeScript. I like to write type-safe functional code that is easy to read, reason about, and test. I'm also having a lot of fun learning about AWS technologies like Lambda and DynamoDB.
-
-Further learning goals include Scala and Rust (how can you not just salivate at the pattern matching?)
-
-
-Outside of coding I enjoy tinkering with my home built e-bike, watching and playing soccer, reading about urbanism and politics, and cooking yummy food.
+backend, fp-ts, typescript, javascript, serverless
 
  
 
