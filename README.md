@@ -1,6 +1,6 @@
 ### Hello 👋
 
-backend, fp-ts, typescript, javascript, serverless
+functional programming, ocaml 🐫, fp-ts, typescript, javascript, serverless,
 
  
 
